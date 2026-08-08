@@ -1,0 +1,101 @@
+=== INFORMATIONS ===
+Titre: N y’a bila sonsannin,suruku ani sula kan.
+Langue: Dioula
+Traduction française : Mon conte porte sur le lièvre, l’hyène et le singe.
+Type: Conte
+Source: À retrouver
+Licence: À vérifier
+
+=== 001 ===
+DIOULA:
+Nsiirin ! nsiirin !
+FRANÇAIS:
+Écoutez mon conte !
+
+=== 002 ===
+DIOULA :
+N y’a bila sonsannin,suruku ani sula kan.
+FRANÇAIS :
+Mon conte porte sur le lièvre, l’hyène et le singe.
+
+=== 003 ===
+DIOULA :
+Loon dɔ sula ye kulekan mɛn k’a to sennayaala ra.
+FRANÇAIS :
+Un jour le singe en faisant les cent pas a entendu un cri.
+
+=== 004 ===
+DIOULA :
+A banbara ka kulekan nin yɔrɔɲini k’a ye.
+FRANÇAIS :
+Il a tout fait pour rechercher le cri et il l’a trouvé.
+
+=== 005 ===
+DIOULA :
+A tagar’a sɔrɔ suruku le benna dingɛ kɔnɔ.
+FRANÇAIS :
+Il est allé trouver que c’était l’hyène qui est tombé dans le trou.
+
+=== 006 ===
+DIOULA :
+Suruku ko :
+FRANÇAIS :
+L’hyène dit :
+
+=== 007 ===
+DIOULA :
+sula, sabari ka n dɛmɛ ka bɔ dingɛ nin kɔnɔ.
+FRANÇAIS :
+singe, s’il te plaît aide-moi à sortir de ce trou.
+
+=== 008 ===
+DIOULA :
+Sula y’a kukala don dingɛ kɔnɔ ka suruku sama ka bɔ.
+FRANÇAIS :
+Le singe a mis sa queue dans le trou et a fait sortir l’hyène.
+
+=== 009 === 
+DIOULA :
+Suruku bɔnin kɔ,
+FRANÇAIS :
+Une fois sortie,
+
+=== 010 ===
+DIOULA :
+a ko ale bina sula dumu barisa,
+FRANÇAIS :
+l’hyène dit qu’elle va manger le singe car
+
+=== 011 ===
+DIOULA :
+a tile naani le be bi ye n’a ma fɛɛn don a daa ra.
+FRANÇAIS :
+depuis quatre jours, elle n’a rien mis dans la bouche.
+
+=== 011 ===
+DIOULA :
+Sonsannin tɛmɛtɔ y’o kumakan mɛn.
+FRANÇAIS :
+Le lièvre en passant les a entendus parler.
+
+=== 012 ===
+DIOULA :
+A gwɛrɛla o kɔrɔ k’o ɲininga.
+FRANÇAIS :
+Il s’est approchée et a demandé :
+
+=== 013 ===
+DIOULA :
+Mun kɛra n’a bi ɲɔgɔn samana?
+FRANÇAIS :
+Pourquoi vous vous tiraillez ?
+
+=== 014 ===
+DIOULA :
+Sula y’a ɲɛfɔ sonsannin ye.
+FRANÇAIS :
+Le singe expliqua au lièvre.
+
+=== 015 ===
+DIOULA :
+

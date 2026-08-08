@@ -1,0 +1,24 @@
+=== INFORMATIONS ===
+Titre: Hyène, singe et lièvre
+Langue: Dioula
+Traduction: Français
+Type: Conte
+Source: À retrouver
+Licence: À vérifier
+
+=== 001 ===
+
+DIOULA:
+Nsiirin ! nsiirin !
+
+FRANÇAIS:
+Écoutez mon conte !
+
+
+=== 002 ===
+
+DIOULA:
+N y’a bila sonsannin,suruku ani sula kan.
+
+FRANÇAIS:
+Il était une fois, le lièvre, l’hyène et le singe.
